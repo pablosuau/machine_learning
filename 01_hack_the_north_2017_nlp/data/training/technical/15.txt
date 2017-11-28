@@ -1,0 +1,86 @@
+
+Agile Tester - Osterley - £43K - £48K
+
+
+
+
+
+We’re part of Europe’s leading entertainment and communications business. With over 22 million customers across five countries, we make life easier by entertaining and connecting people. It’s a genuine team effort. That’s why we want talented people, like you, to join us and help make the future happen.
+
+
+
+
+
+Part of the wider Data Strategy and IS transformation division we are responsible for determining the application and technical architecture of our future Information Systems. This team will also be responsible for the data strategy, covering the technology needed to collect, clean, store and process data.
+
+
+
+
+
+The perks  
+
+As a valued employee of Sky, you’ll benefit from a free Sky Q premium package (one off payment required for installation), an excellent pension scheme and private health care. Plus, there’s a great range of other benefits to fit around your needs too
+
+
+
+
+
+We’re looking for an experienced Agile Tester to join the Technical Data Services team based in Osterley, you’ll help drive and test new technologies including data warehousing within a multi-year transformation programme that will migrate our Data Engineering and Data Processing to a modern, fast and massively scalable technology platform. 
+
+
+
+
+
+Your key responsibilities: 
+
+- Testing of software, including regression, non-functional and integration testing.
+
+- Specifying test environment requirements, environment setup and coordination.
+
+- Writing tests in a test automation tools such as QTP.
+
+- Testing of large  Data sets/Big Data
+
+
+
+
+
+Your skills:
+
+- Strong understanding and experience of UNIX / Linux operating systems, an individual who can write complex SQL statements to validate test cases. 
+
+- Experience working with Spark and Scala programming.
+
+- Advice on UAT and product showcases to ensure the functionality delivered meets customer expectations.
+
+- Create both automated and manual tests and maintain existing test suites.
+
+- Create environment requirements. Setup, manage, maintain and ensure test data & environments are available.
+
+- ISTQB foundation level certification or equivalent.
+
+
+
+
+
+If you’re ready to work in a dynamic environment alongside talented people who take pride in delivering great results, apply today 
+
+
+
+
+
+Happy to talk flexible working
+
+
+
+
+
+It’s our people that make Sky Europe’s leading entertainment company. That’s why we work hard to be an inclusive employer, so everyone at Sky can be their best.
+
+
+
+If you are successful in your application for this role, your appointment will be subject to receiving a positive outcome from your Criminal Record Check.
+
+
+
+Believe in better

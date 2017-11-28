@@ -1,0 +1,34 @@
+Firmware Electronics Engineer - Hertfordshire
+
+A Firmware Electronics Engineer is required within a leading Telecommunications and Satellite and Space Systems Technology Company. The successful Firmware Electronics Engineer will join a specialised team in this sector and will report to the Department Manager.
+
+The Firmware Electronics Engineer will be involved in the Equipment Design and Development, developing modems and equipment to receive/process, analyse and send RF communications. The Firmware Electronics Engineer will undertake the design and firmware development, implementation of radio systems and sub-systems and also integrate and validate key FPGA elements of communication systems.
+
+Requirements for the Firmware Electronics Engineer
+
+A good Honours degree (2:1) in a relevant subject (Electronics or Telecommunications Engineering).
+Experience with VHDL and System design of FPGA System on a Chip (SoC)
+Knowledge of architecture of HW/SW interfaces
+Responsible for delivery of integrated solutions for digital signal processin
+Xilinx Design Tools Windows and Linux environments
+Knowledge of MATLAB/ Simulink for System modelling with a Xilinx background preferred
+Formal Verification and Validation of FPGA/SoC systems
+Design and development for software defined radio systems
+Understanding of digital modulation techniques
+Requirements capture and compliance validation
+System modelling or test with Matlab/Simulink
+Knowledge of Linux device drivers and experience of Verilog
+Implementation of modems in FPGA and/or DSP
+Develop and execute appropriate tests and compliance to appropriate standards
+Module development to produce appropriate design, implementation and tests
+Security cleared (SC) cleared or able to become so is essential
+Preferable Chartered Engineer or a member of the IET
+Person Profile and Skill Set for the Firmware Electronics Engineer
+
+Proven ability to work as an integral part of a highly-focused team
+Proven ability to take full responsibility for the delivery of critical system components
+Proven ability to develop innovative and efficient solutions to defined problems
+Proven ability to work within tight timescale and budgetary constraints
+Proven ability to produce presentations to customers and other clients
+Good customer-facing skills
+If you feel you meet the requirements for the role of the Firmware Electronics Engineer then apply directly or contact Peter Heap at Jonathan Lee Recruitment on either 01384 446102 or email suitable MS Word Format CV's

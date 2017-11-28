@@ -1,0 +1,59 @@
+Software Developer- C#, Visual Studio, .Net, MVC- Chorley
+
+About the role
+
+Rapid growth, expansion into new areas and demand from our customers has led to the need to expand our in-house software development team. We are now seeking a Software Developer to join the team. You will be responsible for playing a critical role in the development of new and existing applications and integrations in an agile environment.
+
+About Capita- Parking Eye
+
+We are Capita, the UK's leading provider of business process management and integrated professional support service solutions. Through bespoke, quality solutions, we've helped countless organisations unlock value and maximise their potential. With access to our range of unique and diverse opportunities, offering real career advancement and progression, we can unlock your potential too.
+
+ParkingEye (part of Capita) is the market leading car park management company. ParkingEye not only provide full circle car park management services but also real-time statistical and management information to clients across both the public and private sector utilising the latest in Automatic Number Plate Recognition technology. Managing the largest private car park management databases in Europe, our solutions are in place throughout the UK. Our solution ranges from large multi-node SQL Server databases, load balanced web applications and web services with thousands of data collection devices, touch screen kiosks, mobile applications and embedded vehicle systems out in the field.
+
+What you will do
+
+Designing, developing, implementing, and releasing high quality custom software solutions
+Investigating (and resolve if appropriate) technical issues and support the BAU process
+Designing solutions in line with ParkingEye's requirements and modelling into software designs.
+Carrying out transformation of software designs to programme logic.
+Analysing existing solutions to highlight areas for improvement
+Help improve our code quality through writing unit tests, automation and performing code reviews
+Willingness to take on additional responsibility to ensure team success and quality solutions
+Team player that understands how their own work is important to the team's success
+Ability to multitask across different projects
+Lead on discrete projects, development and design
+Provide specialist information advice to other members of staff, managers and directors.
+Your Experience Will Include:
+
+C#, Asp.Net MVC 4 and 5
+Experience in Visual Studio 2013 and 2015
+Experience working with Microsoft SQL Server (MS SQL Server 2012 preferable)
+Experience with T-SQL including but not limited to writing stored procedures, cursors, variables, table variables, temp tables, indexing and understanding query plans
+OO Programming using Design Patterns, Inversion of Control
+HTML, CSS
+JavaScript, JQuery
+Entity Framework
+Desired Skills
+
+SignalR, Redis Cache
+Bootstrap, AutoMapper
+TDD
+NServiceBus
+Bamboo
+PHP, MySQL
+What's in it for you?
+
+At Capita, training and development aren't optional extras: they're how we do our job. We will motivate you to perform at your peak, recognising your achievements and rewarding them appropriately. As well as a generous basic salary we also give you holiday, pension scheme and access to voluntary benefit options including; child care vouchers, share plan schemes, life assurance, holiday buy and many more designed to suit your own personal lifestyle. All of this, in a professional but fun environment.
+
+What we hope you will do next
+
+Help us find out more about you by completing our short application process - click apply now.
+
+Follow Capita on twitter @capitacareers
+Follow Capita on facebook @careersatcapita
+
+Capita Resourcing welcome applications from all suitably qualified people regardless of gender, race, disability, age or sexual orientation.
+
+Capita Resourcing is a trading name of Capita Resourcing Ltd. Services offered are those of an Employment Agency and Employment Business. Applicants will be required to register with us.
+
+If you are successful with your application, you will need complete Capita's vetting and screening checks. This will include, but not be limited to, Reference Checks, a Criminality Check, Financial Probity Check, Sanctions Check and Media Check.

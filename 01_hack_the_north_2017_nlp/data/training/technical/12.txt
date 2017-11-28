@@ -1,0 +1,37 @@
+Candidates for this role will have relevant experience in testing and automation, be a flexible individual who enjoys working in a fast-paced team, working on ensuring the quality and reliability of the delivered service.
+
+Main responsibilities of the role involve designing, developing and maintaining test cases and automated test scripts to help in functional, regression and performance testing. Candidates will be required to  Creating automation frameworks using Selenium Webdriver, Cucumber, Java, Junit/TestNG and integration with Jenkins. Creating performance testing frameworks using Jmeter for back-end and front end services including scaling application servers in AWS, stress/load testing, server statistics analysis, generating reports and performance test results documentation. Creating API test automation frameworks using SoapUI/Ready API or Jmeter to validate XML/JSON response for REST and SOAP services. Data Migration Testing with ability to write SQL queries and interrogate data in a data base. Writing protractor test scripts using JavaScript. Maintaining the test scripts in version control systems such as SVN and GIT. Integrating the tests with Continuous Integration tools such as Jenkins and GO.
+
+Required skills and knowledge:
+
+Windows & Linux OS experience
+Selenium Webdriver, Cucumber, Junit, TestNG, Eclipse, Selenium Grid, Jmeter, Protractor, SoapUI Pro/Ready API, Maven, Jenkins, GO, MySQL Workbench, SQLyog, AWS Cloud, Episerver CMS, GIT, SVN, Grafana, Kibana, Agile, Scrum, TDD & BDD
+Good experience with Java, JavaScript, Gherkin, Groovy, XML, JSON, SQL programming languages
+Good experience writing protractor test scripts using JavaScript
+Proficient with Oracle, MySQL, Redis, Microsoft SQL Server
+Experience with test management tools - Jira, Confluence, Assembla, Wiki, Testlodge
+Experience with Episerver content management system.
+Good knowledge and exposure with AWS cloud infrastructure testing and monitoring
+Good knowledge in setting up Grafana monitoring dashboards
+Testing using Mobile - iOS, Android, Windows, Native Apps, Mobile browsers, emulators
+Ability to self-motivate and a strong desire to learn
+At least ISEB/ISTQB Foundation Level Certification
+Transport and/or ticketing systems knowledge
+
+
+Desirable skills:
+
+Experience with mobile test automation using appium
+Knowledge of using gradle, Blazemeter
+Knowledge of Google Analytics
+
+
+
+
+Application start date: 23 November 2017
+
+Application closing date: 23 December 2017
+
+
+
+Please note: Strictly no agencies, only direct applicants will be considered. Applications submitted after 23 December 2017 will not be considered.

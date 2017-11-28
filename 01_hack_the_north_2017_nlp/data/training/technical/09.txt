@@ -1,0 +1,35 @@
+Job Advert – Java Developer
+Job title: Java Developer
+Location: London
+Salary Package: £45,000 - £80,000
+Advert placed on: 05 June 2017
+Closing Date: 7th July 2017
+Company: Valtech
+About Us
+By joining Valtech you will become part of a unique digital consultancy. We bring together design, data science and software engineering professionals to deliver new products for our customers across the UK.
+
+Job Description
+As a Java Developer within our organisation you will be facing interesting questions about the implementation of large-scale software systems that need to handle daily challenges of scaling, resilience and performance. You will be expected to examine existing software programs and assess what modifications are required in light of the client's needs. You will work on new projects as well as existing matters, continually assessing software solutions by testing and correcting any processes or programs. 
+ 
+You will be expected to develop expertise both in technology and the means to communicate complex concepts and rationale to non-techies – this could be formal or informal, written or oral, in a team around a whiteboard or as a presentation. We’ll encourage and support this with frequent opportunities to share ideas internally. We may also require you to  present at regional, national and global conferences.
+
+Skills, Qualifications and Experience Required
+•Relational databases and SQL (Oracle, SQL Server, MySQL) 
+•NoSql databases (Mongo, CouchDB, Riak, Neo4J)
+•Web technologies (HTML, CSS, JavaScript/AJAX) and web infrastructure (Apache HTTP/web server, servlet containers, caching, proxies, security, CDNs 
+•Java web frameworks (E.g. Wicket, Play, Spring MVC)
+•Spring Framework
+•Experience in XML technologies (XML Schema, SAX) 
+•Experience in creation of web services (SOAP, REST) 
+•Exposure to other JVM based languages such as Groovy or Scala
+•Exposure to other scripting languages such as Ruby or Python
+•Experience working in cross-functional teams using Scrum and/or Kanban
+•Experience in participating in workshops to identify and define user requirements
+•Experience in writing acceptance tests and understanding Behavior Driven Development principles
+•Experience of developing highly interactive websites and familiarity with the challenges involved
+•Experience of team development in integrated environments using managed source control systems such as Git
+•Possess a good understanding of different software architectures
+•Proven experience working in projects where Test Driven Development, pair programming and refactoring principles were applied
+•General awareness of SEO coding concepts; especially URL structure
+•Knowledge of Software/ Enterprise Design Patterns 
+•Experience with development infrastructure and tools (revision control, bug tracking, wiki) 

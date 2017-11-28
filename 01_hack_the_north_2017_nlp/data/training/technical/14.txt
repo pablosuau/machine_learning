@@ -1,0 +1,83 @@
+The role of BBC TV & Radio Software Engineering is to create distinctive, world class content and services. We build and operate the BBC’s interactive applications and services on TV devices (i.e. Smart TV’s, Games consoles, IPTV streamers, PVRs etc.). Using the latest web technologies and world-class Engineering & Test practices we create compelling and increasingly personalised experiences that our audiences love.
+
+
+
+Our department is based in Dock House at MediaCityUK in Salford, Greater Manchester where you will work with some of the UK’s most popular interactive services on televisions, shaping and implementing key functionality for the BBC’s iPlayer, Sport, News and Red button products.
+
+
+
+Our people work in multi-discipline crews with Software Engineers, Testers, Product owners and Delivery working closely together in a respectful and collaborative environment. We encourage a culture of team empowerment and support your self-development.
+
+
+We are looking for a Senior Tester to join our Testing team and lead testing at a pan-product level.
+
+
+
+Working in Test you will be collaborating with Testers and software developers in the successful delivery of high quality software for our major products: BBC iPlayer, BBC Sport, BBC News, TV Application Layer and Red Button services.
+
+
+
+This position requires a self-motivated individual who has mature communication skills, is willing to own responsibilities including leading testing, functional testing, test design and implementation of test plans and test cases, risk analysis and integration testing across various applications and services. Our services have the largest reach of any broadcast interactive service in the UK. Join us in creating new experiences that will help define the future of IPTV. 
+
+
+Essential Skills and Experience
+
+
+
+
+Excellent domain testing skills with a proven strong background with experience in working with various broadcast systems such as DTT, DSat, DCable.
+
+Proven testing skills developed through experience.
+
+Ability to balance departmental strategy, audience experience, resources and technology constraints to regularly deliver value.
+
+Strong aptitude for learning new technologies and ways of working
+
+Practical experience source control tools e.g. Github, SVN
+
+Experience of working and influencing agile process across disciplines (Scrum, Kanban, Waterfall, V-Model)
+
+Experience leading and influencing across teams to adopt / improve tools.
+
+Experience in developing Test Plans, Test Scripts, Defining Test Data and Reports
+
+Experience of Test and Issue Management tools e.g. TestRail, Quality Centre, Jira, Enterprise Tester, etc.
+
+Good understanding of AWS and cloud technologies.
+
+Ability to think creatively, problem solve, and innovate.
+
+Ability to anticipate problems and tackle them with a pragmatic approach.
+
+Strong written and verbal communications skills
+
+Work closely and communicate clearly within cross-functional teams 
+
+Ability to experiment, analyse and continually improve test practices.
+
+Good understanding and appreciation of test automation and its value within agile delivery.
+
+Ability to explain complex technical concepts to a non-technical audience.
+
+Working knowledge of product/defect/test case management systems, preferably Jira 
+
+and TestRail.
+
+Ability to coach and mentor junior team members.
+
+
+
+Desirable Skills and Experience
+
+
+
+
+Experience of testing applications on devices including TV, STB, Game Console, tablet and mobile using responsive designs and techniques.
+
+Advocate of Agile, Kanban and Lean development practices including TDD and BDD, with hands-on experience.
+
+Up-to-date knowledge of test engineering trends and emerging technologies
+
+An understanding of the UK market landscape for digital TV and IPTV products.
+
+Working knowledge of UNIX-like operating systems

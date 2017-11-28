@@ -1,0 +1,37 @@
+The role:
+Following a re-platform of our ecommerce solution, we have migrated the ongoing maintenance, development and support in house. Our team has grown significantly this year and we now need a Technical Lead (TL) to support our development and meet the large number of changes required by business.
+ 
+The TL will work closely with the development team to ensure the key goals for each sprint are delivered, whilst ensuring critical production issues are resolved. They will be responsible for the quality of code the team delivers and will provide feedback and coaching to ensure a high standard is achieved. In addition to supporting the team, the TL role will be required to be hands-on, involving technical design of task, completing development, server configurations and more.
+ 
+Duties & Responsibilities of Technical Lead:
+•       Working with the Technical Architect to define and improve coding standards/patterns
+•       Coaching and mentoring the resources in the team to raise the standard of their outputs
+•       Completing technical designs for tasks in upcoming sprints to support the Technical Architect
+•       Liaises with 3rd party contacts as needed to investigate and resolve issues
+•       Responsible for the integrity of deployments to pre-prod and production environments
+•       Carrying out new development tasks and bug fixes for the website
+•       Supports agile processes and methodologies to improve team workflow
+•       Evaluates and shares the complexity of each task during sprint planning
+•       Identifying key dependencies of technical tasks and communicating to the Product Owner
+•       Refining requirements during action list prioritisation
+•       Identifying/mitigating risks
+•       Agreeing on the sprint goals during sprint planning
+•       Assist in creating final test definition and test cases
+ 
+Required Skills:
+•       Excellent communication skills in English; both oral and written
+•       Logical and methodical approach to problem solving
+•       Ability to think in innovative and creative ways
+•       Operates at all times with integrity; adheres to the highest ethical standards in all interactions
+
+•       Automated build server configuration and management – Jenkins, Bamboo, etc.
+ 
+Desirable Skills & Requirements:
+ 
+•       A Bachelor’s degree or equivalent in a computer-related discipline Java & J2EE core API experience with focus on web based projects
+•       Spring Framework version 3.x experience
+•       Demandware, Intershop, IBM Websphere or SAP hybris ecommerce platform experience
+•       Familiarity with front-end technologies: JavaScript, Bootstrap, jQuery, CSS, SASS etc
+•       Experience of technologies such as Bean Validation, JSTL and REST/SOAP Web Services
+•       Object Orientated Design Experience with UML
+•       Hands on configuration of web servers and application containers

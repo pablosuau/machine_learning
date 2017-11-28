@@ -1,0 +1,76 @@
+MoJ are looking for talented people to join our digital team in London. You’ll take the lead in creating world-class digital services to transform the UK’s justice system.
+
+Working closely in teams, you’ll use the latest cloud and digital technologies to make rapid and meaningful improvements to public services. Keeping a relentless focus on user needs, you’ll make the justice system easier to use and help people do the things they need to do.
+
+Your work building better digital services has the potential to impact millions of people across the UK in a positive way.
+
+MoJ team has over 150 staff, with experts in web development, design and user research, and works with around 50 organisations, including the courts service, prison service and Government Digital Service. 
+
+The key purpose of the role is to:
+
+Enable MoJ software development teams to develop quality services that modernise the way the justice system works for citizens, and empower citizens to easily engage with justice. Through architecting and building highly-available and resilient container, deployment, and monitoring platforms, you will be helping teams to rapidly prototype, deliver, and run, high-impact and high-value services for 21st century digital government.
+
+What you’ll be doing: 
+
+• Supporting development teams with application configuration for deployment, monitoring and other automation
+
+• Architecting and building modern cloud infrastructure to host essential government services for citizens, ensuring highly available, resilient applications.
+
+• Operational management of Linux servers, delivering a complex web application stack
+
+• Building and configuring new server platforms and the automated tooling to do so
+
+• Working with developers to test, debug and troubleshoot issues and problems
+
+• Testing, debugging and troubleshooting of platform level problems
+
+• Supporting development teams with configuring applications for deployment
+
+• Work with third-party providers and government departments to support a variety of integrations
+
+• Working with product teams on a range of tools and services, improving products to meet user needs
+
+• Participating in sprint planning to work with developers and project teams to ensure projects are deployable and monitorable from the outside
+
+• As part of the team you will be expected to participate some of the 2nd line in-house support and Out-of-Hours support rotas and will be compensated for doing so. 
+
+
+
+
+Requirements
+OUTSIDE IR35.
+CV Submission Deadline: 29/11/17 @11:00.
+
+Skills & Qualifications
+
+Essential
+
+• Experience configuring and managing Linux servers for serving a dynamic website
+
+• Experience debugging a complex multi-server service
+
+• Scripting or basic programming skills
+
+• Familiarity with network protocols - TCP/IP, HTTP, SSL, etc.
+
+• Deploying and configuring machines in a cloud environment
+
+• Understanding continuous integration
+
+• Comfortable with configuration management tools: at least one of Salt, Chef, or Puppet
+
+• Previous experience deploying web services in Ruby or Python; or previous experience developing web applications in Ruby or Python
+
+• Experience working in an agile environment 
+
+• Knowledge of the use of version control systems such as git or subversion
+
+Desirable
+
+• Understanding of techniques for management of encryption keys and certificates
+
+• Knowledge of the principles underlying public/private key encryption schemes.
+
+• Installation and management of open source monitoring tools
+
+• Experience with open source solutions and community

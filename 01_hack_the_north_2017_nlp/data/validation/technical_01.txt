@@ -1,0 +1,20 @@
+The role holder will be comfortable writing code in any language that can utilize using their skills to auto processes, rebuild old solutions using best practice or helping the rest of the team. They will need to adapt and enjoy the challenge of using anything possible to deliver data quality.
+
+Any of these languages is essential:
+
+Java
+.Net
+Python
+C
+C#
+C++
+JavaScript
+Description:
+
+Experience working in a project environment
+
+Previous work on databases essential.
+
+Developing new and improving existing controls as required
+
+Performing testing as required
