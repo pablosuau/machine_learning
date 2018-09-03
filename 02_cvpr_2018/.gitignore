@@ -1,0 +1,5 @@
+papers/*
+data/*
+models/*
+checkpoints/*
+.ipynb_checkpoints/*
