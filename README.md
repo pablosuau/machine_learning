@@ -1,3 +1,1 @@
-# Machine Learning projects
-
-Repository of simple Machine Learning projects  
+# Machine Learning projectsRepository containing simple Machine Learning and more general Data Science projects  
